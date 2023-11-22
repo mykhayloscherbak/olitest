@@ -9,7 +9,7 @@ Depends: dpkg (>= 1.15.4) | install-info
 Suggests: less
 Homepage: https://www.gnu.org/software/gzip/
 Priority: required
-Section: main
+Section: util
 Filename: pool/main/g/gzip/gzip_1.10-4+deb11u1_armhf.deb
 Size: 128224
 SHA256: 8c2ddd607f8ec618b4061d6828dc3ac619bcef0296a6b330c8ba7e815be1b209
