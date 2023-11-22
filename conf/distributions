@@ -1,0 +1,6 @@
+Origin: MIS Olimex test
+Label: Olitest Github
+Suite: stable
+Codename: buster
+Architectures: armhf arm64 source
+Components: main

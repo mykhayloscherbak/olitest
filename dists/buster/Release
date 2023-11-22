@@ -1,0 +1,37 @@
+Origin: MIS Olimex test
+Label: Olitest Github
+Suite: stable
+Codename: buster
+Date: Wed, 22 Nov 2023 16:46:33 UTC
+Architectures: armhf arm64
+Components: main
+MD5Sum:
+ 7120710595f92bdfd0e34cf1ca5b51cd 832 main/binary-armhf/Packages
+ 071f055e3fca8c024dc01e79e8dc27ec 563 main/binary-armhf/Packages.gz
+ ffd60b5f7882552bd59b04ad88dc6ecb 98 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ e3313b7282d54e18a08db2c739b85d46 98 main/binary-arm64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ aedfaa2ee0bc945a25ef355948aa7811 99 main/source/Release
+SHA1:
+ 0a591980ceab2267d2af024a62d11839a80d28ac 832 main/binary-armhf/Packages
+ 1731c8d198c877f74face97a2fdb8b657eb5bdec 563 main/binary-armhf/Packages.gz
+ eaa0b9bcf5deffd51582e7d2b756396ce4ea8eb4 98 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 7a3571f4b3409fb2c6039ebe165de1876417039a 98 main/binary-arm64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ ca53e407492d306c4afdcc3ec088241d50645cd4 99 main/source/Release
+SHA256:
+ 297f0323cdf1ca00fdc403293c1b656eb6ac096007f23e6beaa417079f6670d3 832 main/binary-armhf/Packages
+ d15f8885eef57d7c0a02374620f017af3bea295b22f7995bcac636a46f200a34 563 main/binary-armhf/Packages.gz
+ 70e785a72fd5c40abb88dd7d6ea2422bd82e111ec2a8228a7d7629b5517a8edc 98 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 98279f34adadd781cc0f126fc2f9e9e483d62625060f9e8fbf8152e5d9a98d37 98 main/binary-arm64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 0bf57246a10ad0929f5c75e845b8dfbed607784e973baad685349cda0ce6e102 99 main/source/Release

@@ -1,0 +1,23 @@
+Package: gzip
+Version: 1.10-4+deb11u1
+Architecture: armhf
+Essential: yes
+Maintainer: Milan Kupcevic <milan@debian.org>
+Installed-Size: 209
+Pre-Depends: libc6 (>= 2.28)
+Depends: dpkg (>= 1.15.4) | install-info
+Suggests: less
+Homepage: https://www.gnu.org/software/gzip/
+Priority: required
+Section: util
+Filename: pool/main/g/gzip/gzip_1.10-4+deb11u1_armhf.deb
+Size: 128224
+SHA256: 8c2ddd607f8ec618b4061d6828dc3ac619bcef0296a6b330c8ba7e815be1b209
+SHA1: e765083caf32d11ad0f18438de75d90f0f5b768b
+MD5sum: ca0fc09dfd9d35bf41cdbb9e5cfdef54
+Description: GNU compression utilities
+ This package provides the standard GNU file compression utilities, which
+ are also the default compression tools for Debian.  They typically operate
+ on files with names ending in '.gz', but can also decompress files ending
+ in '.Z' created with 'compress'.
+
