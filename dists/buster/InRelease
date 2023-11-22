@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: MIS Olimex test
 Label: Olitest Github
 Suite: stable
@@ -35,3 +38,19 @@ SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  0bf57246a10ad0929f5c75e845b8dfbed607784e973baad685349cda0ce6e102 99 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEm7tsUAFHVCzL16gq0O6BU3JifucFAmVeWMMACgkQ0O6BU3Ji
+fudmDw/+LHhDqADlXiPF+V4bBK3ArKxvZF3Zw0OB/rqb6p7zarfL931AcDJRd9eA
+wv4RR5YJRQ8odwpI+rnXAiPzrrNST7OycsATsO9uYhbyK7NGATK0uGzd+Aj7RegI
+LchVf5HdkFHDSv6OhAPzfgaBKEuTzbdZglz/Uqa7M0ZNrHd/J1DBIxxL5UFmwyPF
+Gkzjm3A8qiKcCITa+6IMEh3XmNhe6Jjr2waCd8uKb17qOJB2/KRFX8ut7RNh0QZC
+ZPkbgBOVksoM/dK55M/tozw1Qadap0fifdoP08sYxk6HsTT2/hI0Pi5IqbFsbOjY
+q7ydblDKDT5olDoaizwaV6nAyygEA4bfPFknLjCxbnvXfPBlLeb17XukFVshiHGh
+uY1oLXehHoJ/qoKx+dXmQ1oau7MaPXiy8DJFkv1767LhKvsW3o7nNyE1GP/QcXzG
+5lU/QpxRB7GCOv//auru91zJMvIfgs91WwEGSNgz9EVHL4Sfvrbbrh/yyyvwXz/X
+R0F5OR8tNExSoToAx+7D2QvagHi4hMSdfsAiT3De5cCp7j+qiwHE7pG91rjcO1L/
+cRzqW50jl5wr8XuLxxLQEfalnY/hB56NdxBjvUj9mxYoxts2H+pd2f8OXlhinqbY
+tfHHSrOarGs1cjQTMzLCVho3AXhYiri6WTLFci7rpqZLIJrEr0k=
+=badj
+-----END PGP SIGNATURE-----
