@@ -21,3 +21,28 @@ Description: GNU compression utilities
  on files with names ending in '.gz', but can also decompress files ending
  in '.Z' created with 'compress'.
 
+Package: mc
+Version: 3:4.8.26-1.1
+Architecture: armhf
+Maintainer: Dmitry Smirnov <onlyjob@debian.org>
+Installed-Size: 1076
+Depends: libc6 (>= 2.28), libext2fs2 (>= 1.37), libglib2.0-0 (>= 2.59.2), libgpm2 (>= 1.20.7), libslang2 (>= 2.2.4), libssh2-1 (>= 1.2.8), mc-data (= 3:4.8.26-1.1)
+Recommends: mime-support, perl, unzip, sensible-utils
+Suggests: arj, bzip2, catdvi | texlive-binaries, dbview, djvulibre-bin, epub-utils, file, genisoimage, gv, imagemagick, libaspell-dev, links | w3m | lynx, odt2txt, poppler-utils, python, python-boto, python-tz, unar, wimtools, xpdf | pdf-viewer, zip
+Provides: mcedit
+Homepage: https://www.midnight-commander.org
+Priority: optional
+Section: main
+Filename: pool/main/m/mc/mc_4.8.26-1.1_armhf.deb
+Size: 477552
+SHA256: aa14c5a51808291b27e2489d659a777514c89ff6579ee2cf36c2aca90d79dc0f
+SHA1: 601a37bc89a9f3641f3a3868f3e07554d1eb7368
+MD5sum: 2430bec9fc89c07fbe05d79baf80d4c7
+Description: Midnight Commander - a powerful file manager
+ GNU Midnight Commander is a text-mode full-screen file manager. It
+ uses a two panel interface and a subshell for command execution. It
+ includes an internal editor with syntax highlighting and an internal
+ viewer with support for binary files. Also included is Virtual
+ Filesystem (VFS), that allows files on remote systems (e.g. FTP, SSH
+ servers) and files inside archives to be manipulated like real files.
+
