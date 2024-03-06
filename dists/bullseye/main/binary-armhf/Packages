@@ -21,6 +21,32 @@ Description: GNU compression utilities
  on files with names ending in '.gz', but can also decompress files ending
  in '.Z' created with 'compress'.
 
+Package: less
+Version: 551-2
+Architecture: armhf
+Maintainer: Milan Kupcevic <milan@debian.org>
+Installed-Size: 231
+Depends: libc6 (>= 2.11), libtinfo6 (>= 6)
+Multi-Arch: foreign
+Homepage: http://www.greenwoodsoftware.com/less/
+Priority: important
+Section: util
+Filename: pool/main/l/less/less_551-2_armhf.deb
+Size: 128992
+SHA256: 959f685c1fcc440c7b7ae749449104522acfebef2cfd48d79aaa54a0bc20063a
+SHA1: 487079eba9531addb78c778c33199f898bf27122
+MD5sum: e7f64fd674f0f2eb5651ea1b037bb366
+Description: pager program similar to more
+ This package provides "less", a file pager (that is, a memory-efficient
+ utility for displaying text one screenful at a time). Less has many
+ more features than the basic pager "more". As part of the GNU project,
+ it is widely regarded as the standard pager on UNIX-derived systems.
+ .
+ Also provided are "lessecho", a simple utility for ensuring arguments
+ with spaces are correctly quoted; "lesskey", a tool for modifying the
+ standard (vi-like) keybindings; and "lesspipe", a filter for specific
+ types of input, such as .doc or .txt.gz files.
+
 Package: mc
 Version: 3:4.8.26-1.1
 Architecture: armhf
@@ -32,12 +58,12 @@ Suggests: arj, bzip2, catdvi | texlive-binaries, dbview, djvulibre-bin, epub-uti
 Provides: mcedit
 Homepage: https://www.midnight-commander.org
 Priority: optional
-Section: main
+Section: util
 Filename: pool/main/m/mc/mc_4.8.26-1.1_armhf.deb
-Size: 477552
-SHA256: aa14c5a51808291b27e2489d659a777514c89ff6579ee2cf36c2aca90d79dc0f
-SHA1: 601a37bc89a9f3641f3a3868f3e07554d1eb7368
-MD5sum: 2430bec9fc89c07fbe05d79baf80d4c7
+Size: 477744
+SHA256: a0311f2bf04196bd5bf009c3b762d5eb12580a595e49d4f9fe227c7660d07387
+SHA1: 8da1ed59733df0870742855cfb2fdc047ef7dfd9
+MD5sum: 050bfd09044a76d914205f064c8591b9
 Description: Midnight Commander - a powerful file manager
  GNU Midnight Commander is a text-mode full-screen file manager. It
  uses a two panel interface and a subshell for command execution. It

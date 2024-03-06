@@ -1,7 +1,7 @@
 Origin: MIS Olimex test
 Label: Olitest Github
 Suite: stable
-Codename: buster
+Codename: bullseye
 Architectures: armhf arm64 source
 Components: main
 SignWith: D0EE815372627EE7

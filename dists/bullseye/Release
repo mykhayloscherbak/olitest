@@ -1,13 +1,13 @@
 Origin: MIS Olimex test
 Label: Olitest Github
 Suite: stable
-Codename: buster
-Date: Wed, 22 Nov 2023 20:14:04 UTC
+Codename: bullseye
+Date: Wed, 06 Mar 2024 19:36:23 UTC
 Architectures: armhf arm64
 Components: main
 MD5Sum:
- 2f1ed6c1389178b09aa4f40ea0408db3 2212 main/binary-armhf/Packages
- f139c05f32c9596b31ddfdd42516caf5 1246 main/binary-armhf/Packages.gz
+ 04af070fb555515a3fc209135bde7781 3287 main/binary-armhf/Packages
+ d4cac4e878643af10b81ccc12ee292aa 1744 main/binary-armhf/Packages.gz
  ffd60b5f7882552bd59b04ad88dc6ecb 98 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -16,8 +16,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  aedfaa2ee0bc945a25ef355948aa7811 99 main/source/Release
 SHA1:
- 1a764cd307a796689bc01b2b4d76fd8275c10dfc 2212 main/binary-armhf/Packages
- 36ae49066bd7dd7876c0ca0d38b5b7598ee4ff8e 1246 main/binary-armhf/Packages.gz
+ 00bcd3f8b1ca8709ae7463795f1fcf114e3d12a9 3287 main/binary-armhf/Packages
+ f9b66974465d072b86872906fbf56b14ebea04bc 1744 main/binary-armhf/Packages.gz
  eaa0b9bcf5deffd51582e7d2b756396ce4ea8eb4 98 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -26,8 +26,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  ca53e407492d306c4afdcc3ec088241d50645cd4 99 main/source/Release
 SHA256:
- aef9825c7a03a3af92b891129312ed8df228da433a516f918a3d0bdc00a0d6f4 2212 main/binary-armhf/Packages
- 75d81c5d5cd5d4080260a609416c81999ebdd2742de90b59e59eec550e957100 1246 main/binary-armhf/Packages.gz
+ 035f7038dfcaa5047f0adcb8b7901eb2f3dc17dc494b337a16675116018588e2 3287 main/binary-armhf/Packages
+ 4564fcbd5383d203476f46e1b2b37ded48aef33ce90dbe79b91d8439f22137e8 1744 main/binary-armhf/Packages.gz
  70e785a72fd5c40abb88dd7d6ea2422bd82e111ec2a8228a7d7629b5517a8edc 98 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
