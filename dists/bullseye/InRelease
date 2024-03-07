@@ -5,12 +5,12 @@ Origin: MIS Olimex test
 Label: Olitest Github
 Suite: stable
 Codename: bullseye
-Date: Wed, 06 Mar 2024 19:36:23 UTC
+Date: Thu, 07 Mar 2024 12:53:32 UTC
 Architectures: armhf arm64
 Components: main
 MD5Sum:
- 04af070fb555515a3fc209135bde7781 3287 main/binary-armhf/Packages
- d4cac4e878643af10b81ccc12ee292aa 1744 main/binary-armhf/Packages.gz
+ cb74a08dec1d9f0c9b656a2661c0ab5d 3287 main/binary-armhf/Packages
+ 061da3dd1aedcc9aee3dfc4fd33f8e0c 1742 main/binary-armhf/Packages.gz
  ffd60b5f7882552bd59b04ad88dc6ecb 98 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
@@ -19,8 +19,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  aedfaa2ee0bc945a25ef355948aa7811 99 main/source/Release
 SHA1:
- 00bcd3f8b1ca8709ae7463795f1fcf114e3d12a9 3287 main/binary-armhf/Packages
- f9b66974465d072b86872906fbf56b14ebea04bc 1744 main/binary-armhf/Packages.gz
+ 53f77445a3d38b0a4a2f76911de62f6227066433 3287 main/binary-armhf/Packages
+ 6c8299f8680c8513ca67cc87cd4a455bb4946f73 1742 main/binary-armhf/Packages.gz
  eaa0b9bcf5deffd51582e7d2b756396ce4ea8eb4 98 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
@@ -29,8 +29,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  ca53e407492d306c4afdcc3ec088241d50645cd4 99 main/source/Release
 SHA256:
- 035f7038dfcaa5047f0adcb8b7901eb2f3dc17dc494b337a16675116018588e2 3287 main/binary-armhf/Packages
- 4564fcbd5383d203476f46e1b2b37ded48aef33ce90dbe79b91d8439f22137e8 1744 main/binary-armhf/Packages.gz
+ 4e44f0327d18413d991d5c893a098442788803fe012df49143b2ca9b206b1bd6 3287 main/binary-armhf/Packages
+ ae31270d0f6441e407b1c93b974ce315c3f6416088d92b5f4cd4d84d97ba4e13 1742 main/binary-armhf/Packages.gz
  70e785a72fd5c40abb88dd7d6ea2422bd82e111ec2a8228a7d7629b5517a8edc 98 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
@@ -40,17 +40,17 @@ SHA256:
  0bf57246a10ad0929f5c75e845b8dfbed607784e973baad685349cda0ce6e102 99 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEm7tsUAFHVCzL16gq0O6BU3JifucFAmXoxbgACgkQ0O6BU3Ji
-fufwSRAAvqsagJcvGYQz2aNkMyEF2tAJ8xduj80n0BCWdwD5O/96zigeekpyXcv8
-p+Ps/BMNjjF5eZUzrPB+8f7gIsWIyiGawVRClXa5gw3NbmxEzxZ9S7hKo6LLe7be
-3qlJn10IfuRq8VORCBPJYIlGRbZGMhFYQ5KXma8COciLm9T0MmIaHE/N4yGTX4FI
-zpjzBHiogbWbShJGRBAM2SQxL1JEjkO+kjZmFfsAR+ACikZ+8sHn9D5aO2dQInGf
-OFMwEZGKWTXg+csz1YaR5U1GsqSWePBNqAWOF76dohK5mgYbTb8G+ic5l+gs9qAL
-BdrncS8gZNY/ed60SEynqmny/XoRp3uK36b6s4qpU/Y1bBLFAzQlDuWspJYSvfGp
-GFS1084ZKTvTZsgvHo4EuMcFBJKNvx0fpIWLG2r84NgCgy65v6L8PlXIUZuGZhhk
-VVO4PbIb5vX8hnoUwG+WB904EhOy3AWjge6p91zS+N/4pE0fazlzY5RbdjY3n/83
-+8hu3ghateUn51nwa0KbtyU9+kNkm3mzltOtAHNe28OtEI+VRNQGcO883FjABeGS
-dHWSY2LMqBY43O+TErOIXSHVYM1l5K3HsgmDHlaIkTUxu6c6XRhd1n1ftQcUn1Ba
-1YkIoHiPSSsi1OPHaxlI3Z7tYgg+Mf5OqiocQzvFPr76/NkRgcE=
-=is1K
+iQIzBAEBCgAdFiEEm7tsUAFHVCzL16gq0O6BU3JifucFAmXpuNAACgkQ0O6BU3Ji
+fueO5hAApypd9eMN+OrGhZ3NpmtTYkQFNEHRNf9FFqT1ms/t8V6vdfd65mR24ieo
+BKQTbkcTWLU30ohv+EEvnWKTm0XTlLePw51m2iX0CtUKOyYtLaxImMA7b9MCYoUG
+B2M2WNiTJjnEqh7dwNRSqZMUIGzJNaYFDo4BDxUwT0ZWuirqVEbn4Y6yR7w3LsWn
+6W1ETEE3uEC4ZnQ3VGpmewmsWy4AokGEdBUuExqtPgNN2TkIP+9IRrq4cPgUHWPR
+QRTXtKpbtYdH4J/3/+zV5IACRUWLN0AybD0GUJVLu+4xxC0WzYo68mfqB4de1B2S
+CnHIToqKqDo83Y2l72p3HLshjVDdPg5hfF2aMt2tO+itx56ahiurC5TqhrS1eRq1
+KXq9Ir9K8ct9ZWybui6cD638PN/VZvpdVmfDn5uWWcjCg6I5w+EJ86yaR7JDjdyn
+rD2urs5JMM6qa9ViIGQGyiQW3EF3M8U8lkBIvmpJa28vS/GpSnEIlTpVSv+ac6Oy
+iQfyQMQ+u5/4LHGDxUMQAAMjNITQ1JHtyoKSnzz82ao9p4p1mhtAY5iOtti3vJ5e
+By4YBWCBZQQGq8G18yDK1GcgqW1xB1XPDgJwfhqSt/8EeAdiInHJeso7Lv/7WuEd
+lyKf08esH8QU3b7WwW06Pr5xfxe3fpdmZ3hWmZ3V9mzwB4aFdQI=
+=Aw8T
 -----END PGP SIGNATURE-----

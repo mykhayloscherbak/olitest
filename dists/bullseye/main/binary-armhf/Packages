@@ -60,10 +60,10 @@ Homepage: https://www.midnight-commander.org
 Priority: optional
 Section: util
 Filename: pool/main/m/mc/mc_4.8.26-1.1_armhf.deb
-Size: 477744
-SHA256: a0311f2bf04196bd5bf009c3b762d5eb12580a595e49d4f9fe227c7660d07387
-SHA1: 8da1ed59733df0870742855cfb2fdc047ef7dfd9
-MD5sum: 050bfd09044a76d914205f064c8591b9
+Size: 477280
+SHA256: 9ac77adc276df5d2791560e305b1efcacb14f9628b907d85c4f61f2036ea3571
+SHA1: 0c135a2ef71c198c18e3b0c29960a58465234532
+MD5sum: 51b7d8e0cd6031430c886d63707da310
 Description: Midnight Commander - a powerful file manager
  GNU Midnight Commander is a text-mode full-screen file manager. It
  uses a two panel interface and a subshell for command execution. It
